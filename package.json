@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chart.js": "^4.4.6",
+    "next": "15.0.2",
+    "plotly.js": "^2.35.2",
     "react": "19.0.0-rc-02c0e824-20241028",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
-    "next": "15.0.2"
+    "react-plotly.js": "^2.6.0"
   },
   "devDependencies": {
     "postcss": "^8",
